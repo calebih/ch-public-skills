@@ -1,0 +1,25 @@
+{
+  "name": "ch-public-skills",
+  "owner": {
+    "name": "Caleb Hur"
+  },
+  "metadata": {
+    "description": "Caleb Hur's public Claude Code skills.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "korean-sermon-translator",
+      "source": "./plugins/korean-sermon-translator",
+      "description": "Translate Korean sermon manuscripts into English, keeping the Korean original with the English directly underneath each section.",
+      "version": "1.1.0",
+      "category": "productivity",
+      "keywords": [
+        "korean",
+        "translation",
+        "sermon",
+        "church"
+      ]
+    }
+  ]
+}
